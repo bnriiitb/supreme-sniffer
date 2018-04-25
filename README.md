@@ -5,8 +5,14 @@ Supreme Sniffer is an AI based Detective App which can predict a persons age, ge
 
 # Required Softwares:
 
-Python 3.6+
-IDE (Spyder or Pycharm or Jupyter Lab or Jupyter Notebook)
-Numpy
-Matplotlib
-Tensorflow
+1.Python 3.6+
+
+2. IDE (Spyder or Pycharm or Jupyter Lab or Jupyter Notebook)
+
+3. Numpy
+
+4. OpenCV
+
+5. Matplotlib
+
+6. Tensorflow
